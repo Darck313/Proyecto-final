@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="../estilos.css" rel="stylesheet" type="text/css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>PingusDragonus</title>
+    <!-- TemplateEndEditable -->
+    <link href="../css/estilos.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+    <div class="contenedor">
+      <div class="seccion-superior">
+            <div id="banner1"><a href="../index.html"><img src="../images/Actividad-imagen_01.gif" width="80%" alt=""></a></div>
+            <div id="content"><!-- TemplateBeginEditable name="EditRegion1" -->Contenido Principal<!-- TemplateEndEditable --></div>
+            <div id="banner2"><img src="../images/lol-worlds24-poster-1sheet-es-cup61.jpg" width="50%" alt=""/></div>
+        </div>
+      <div class="menu-contenido">
+            <nav class="menu">
+                <a href="Javascript:history.go(-1)" class="menu-item"><img src="../images/Asset 29.png" height="85%" alt=""/></a>
+                <a href="../personajes.html" class="menu-item">Personajes</a>
+                <a href="../escenarios.html" class="menu-item">Escenarios</a>
+                <a href="../items.html" class="menu-item">Items</a>
+                <a href="../Souvenirs.html" class="menu-item">Souvenirs</a>
+                <a href="Javascript:history.go(1)" class="menu-item"><img src="../images/Asset 30.png" height="85%" alt=""/></a>
+          </nav>
+        </div>
+    </div>
+</body>
+</html>
